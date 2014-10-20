@@ -1,0 +1,3 @@
+name = Efq Tools
+description = Entity Field Query tools for easy API usage
+core = 7.x
